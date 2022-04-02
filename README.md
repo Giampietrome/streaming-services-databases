@@ -5,9 +5,8 @@ Uses ['Unofficial JustWatch API'](https://github.com/dawoudt/JustWatchAPI) and [
 
 1) Select the country.
 2) Select the provider.
-3) Select what to get:  original_title, local_title, imdb_id,
-                        relase_year, runtime, production_countries,
-                        generes, directors, writers, actors.
+3) Select what to get:  
+      original_title, local_title, imdb_id, relase_year, runtime, production_countries, imdb_rating, imdb_votes, generes, directors, writers, actors.
 
 The database will be saved in a csv file with "|" as separator. As example there is a db with the first 50 movies of the italian Amazon Prime Video catalog.
 
